@@ -111,5 +111,6 @@ const styles = StyleSheet.create({
 
   corpoItem:{
     paddingTop:10,
+
   }
 });
